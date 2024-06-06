@@ -1,0 +1,63 @@
+.html{
+    font-size: 100%;
+}
+@font-face {
+    font-family: Sahel VF;
+    src: url('Sahel-VF.woff2') format('woff2');
+}
+body{
+    font-family: Vazirmatn,sans-serif!important;
+}
+li a {
+    color: #23232C !important;
+    font-family: Vazirmatn, sans-serif;
+    /* font-size: 14px !important; */
+}
+a:hover{
+    opacity: 1 !important;
+}
+.ff-VazirFD{
+    font-family: Vazir FD, sans-serif !important;
+}
+.cover-img{
+    background-image: url(../image/Ski-Machine-DT2/Ski-Machine-DT.png);
+    background-position: center;
+    background-size: cover;
+    height: calc( 100vh - 108px) !important;
+    width:100%
+}
+.cover-img div div , .c2-header-left , .product-box h1,.c5 p,.foot-txt,.ulbox,.copyright-area{
+    font-size: 12px;
+}
+.c4 p,.c4 a{
+    font-size: 11px;
+}
+.cover-img div p , #txt-head , .c2-header-right , .c4 h6 , .c5 h6 ,.footer-topics h6{
+    font-family: Sahel;
+}
+#txt-p{
+    color:#23232C;
+}
+.product-box span{
+    font-size: 10px;
+}
+.hr{
+    border-color: #ebebeb;
+}
+.c5 p{
+    color: #23232C;
+}
+.logo-footer
+{
+    background-color: #f1f2f4;
+}
+.foot-txt{
+    text-align: justify;
+}
+.badges{
+    display: inline-block;
+    background-color: #FF6962;
+    color: white;
+    padding: 2px 5px;
+    margin-top: 16px;
+    margin-right: 66%;}
